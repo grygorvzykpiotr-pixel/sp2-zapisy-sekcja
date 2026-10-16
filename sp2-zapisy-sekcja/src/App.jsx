@@ -22,7 +22,7 @@ function App() {
   };
 
   return (
-    <div className="container">
+    <div className="container text-start">
       <h2>Liczba sekcji: {sekcje.length}</h2>
 
       <ol>
